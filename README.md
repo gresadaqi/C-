@@ -1,2 +1,2 @@
-# C-
-Detyrat kontrolluese
+# C++
+#Detyrat kontrolluese
